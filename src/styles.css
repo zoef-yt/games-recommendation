@@ -2,3 +2,34 @@
   font-family: sans-serif;
   text-align: center;
 }
+body {
+  max-width: 500px;
+  margin: 0 auto;
+  text-align: left;
+  background-color: #f5eedc;
+}
+button {
+  margin: 0.6rem;
+  padding: 1rem;
+  border: 2px solid black;
+  border-radius: 1rem;
+}
+.list-item {
+  margin: 1rem;
+  max-width: 400px;
+  margin-left: 0;
+  padding: 1rem;
+  border: 2px solid grey;
+  width: 100%;
+  list-style: none;
+  border-radius: 1rem;
+}
+.game-name {
+  font-weight: bold;
+  text-align: left;
+  font-size: 2vh;
+}
+.rating {
+  float: right;
+  color: grey;
+}
