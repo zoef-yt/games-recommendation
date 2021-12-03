@@ -1,3 +1,2 @@
 # games-recommendation
-Created with CodeSandbox
-Recommdation of some games i played in different genre
+Recommendation of some games i played in different genre
