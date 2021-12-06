@@ -34,8 +34,8 @@ button {
   font-size: 2vh;
 }
 .rating {
-  float: right;
   color: grey;
+  float: right;
 }
 
 /* !All imported component here */
